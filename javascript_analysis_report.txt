@@ -1,0 +1,64 @@
+
+🔍 JAVASCRIPT SECURITY ANALYSIS REPORT
+=====================================
+
+Target: https://pigslot.co/_next/static/chunks/pages/admin-force-c06ca2711d7847b2.js
+Analysis Date: 2025-07-28 10:24:28
+File Size: 1057 bytes
+
+📊 EXECUTIVE SUMMARY:
+===================
+- Hardcoded Credentials: 0
+- API Endpoints Found: 0
+- Auth Functions: 2
+- Admin Features: 1
+- Potential Vulnerabilities: 0
+
+🔐 DISCOVERED CREDENTIALS:
+=========================
+
+❌ No hardcoded credentials found
+
+🌐 API ENDPOINTS DISCOVERED:
+===========================
+
+❌ No API endpoints found
+
+🔒 AUTHENTICATION ANALYSIS:
+===========================
+
+ADMIN_FUNCTIONS:
+  - AdminForce
+
+AUTH_CHECKS:
+  - AdminForce
+
+👑 ADMIN FUNCTIONALITY:
+======================
+
+ADMIN_PATHS:
+  - )},[n]),(0,r.useEffect)(()=>{t(a.F.ADMIN,!0)},[]),(0,d.jsx)(
+  - ;t.r(n),t.d(n,{__N_SSP:function(){return c},default:function(){return AdminForce}});var d=t(85893),r=t(67294),u=t(70461),i=t(11163),a=t(13446),c=!0;function AdminForce(){let e=(0,i.useRouter)(),[n,t]=(0,u.Z)([a.F.ADMIN]);return(0,r.useEffect)(()=>{e.replace(
+  - /admin-force
+  - กำลังติดตั้ง cookies สำหรับ admin
+
+🚨 SECURITY VULNERABILITIES:
+===========================
+
+✅ No obvious vulnerabilities found
+
+
+🛡️ RISK ASSESSMENT:
+==================
+Overall Risk Level: MEDIUM
+
+Recommendations:
+1. Review any hardcoded credentials found
+2. Test discovered API endpoints for unauthorized access
+3. Analyze authentication logic for bypasses
+4. Check admin functionality for privilege escalation
+5. Fix any security vulnerabilities identified
+
+=====================================
+End of Analysis Report
+=====================================

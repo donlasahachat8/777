@@ -1,0 +1,688 @@
+# SUCCESSFUL BYPASS!
+# File: .htaccess
+# URL: https://pakyok77.link/view.php?load=../../../../.htaccess
+# Attempt: 68
+# Timestamp: 2025-07-28 21:49:50.875941
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://pakyok77.link/xmlrpc.php" />
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Page Not Found</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page Not Found" />
+<meta property="og:site_name" content="พักยก77" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://pakyok77.link/#person","name":"superadmins"},{"@type":"WebSite","@id":"https://pakyok77.link/#website","url":"https://pakyok77.link","name":"\u0e1e\u0e31\u0e01\u0e22\u0e0177","publisher":{"@id":"https://pakyok77.link/#person"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page Not Found","isPartOf":{"@id":"https://pakyok77.link/#website"},"inLanguage":"en-US"}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel='prefetch' href='https://pakyok77.link/wp-content/themes/flatsome/assets/js/chunk.countup.js?ver=3.16.5' />
+<link rel='prefetch' href='https://pakyok77.link/wp-content/themes/flatsome/assets/js/chunk.sticky-sidebar.js?ver=3.16.5' />
+<link rel='prefetch' href='https://pakyok77.link/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.16.5' />
+<link rel='prefetch' href='https://pakyok77.link/wp-content/themes/flatsome/assets/js/chunk.vendors-popups.js?ver=3.16.5' />
+<link rel='prefetch' href='https://pakyok77.link/wp-content/themes/flatsome/assets/js/chunk.vendors-slider.js?ver=3.16.5' />
+<link rel="alternate" type="application/rss+xml" title="พักยก77 &raquo; Feed" href="https://pakyok77.link/feed/" />
+<link rel="alternate" type="application/rss+xml" title="พักยก77 &raquo; Comments Feed" href="https://pakyok77.link/comments/feed/" />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='flatsome-main-css' href='https://pakyok77.link/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.16.5' type='text/css' media='all' />
+<style id='flatsome-main-inline-css' type='text/css'>
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(https://pakyok77.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.16.5);
+				src:
+					url(https://pakyok77.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.16.5) format("embedded-opentype"),
+					url(https://pakyok77.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.16.5) format("woff2"),
+					url(https://pakyok77.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.16.5) format("truetype"),
+					url(https://pakyok77.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.16.5) format("woff"),
+					url(https://pakyok77.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.16.5#fl-icons) format("svg");
+			}
+</style>
+<link rel='stylesheet' id='flatsome-style-css' href='https://pakyok77.link/wp-content/themes/flatsome/style.css?ver=3.16.5' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-googlefonts-css' href='//fonts.googleapis.com/css?family=Prompt%3Aregular%2C500%2C300%2C500%7CDancing+Script%3Aregular%2Cregular&#038;display=swap&#038;ver=3.9' type='text/css' media='all' />
+<script type="text/javascript" src="https://pakyok77.link/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<link rel="https://api.w.org/" href="https://pakyok77.link/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pakyok77.link/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<link rel="icon" href="https://pakyok77.link/wp-content/uploads/2023/10/โลโก้-พักยก77-150x130.png" sizes="32x32" />
+<link rel="icon" href="https://pakyok77.link/wp-content/uploads/2023/10/โลโก้-พักยก77.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://pakyok77.link/wp-content/uploads/2023/10/โลโก้-พักยก77.png" />
+<meta name="msapplication-TileImage" content="https://pakyok77.link/wp-content/uploads/2023/10/โลโก้-พักยก77.png" />
+<style id="custom-css" type="text/css">:root {--primary-color: #ff0000;}.sticky-add-to-cart--active, #wrapper,#main,#main.dark{background-color: #000000}.header-main{height: 90px}#logo img{max-height: 90px}#logo{width:140px;}#logo img{padding:3px 0;}.header-bottom{min-height: 55px}.header-top{min-height: 30px}.transparent .header-main{height: 90px}.transparent #logo img{max-height: 90px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 140px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.header-bg-color {background-color: rgba(255,255,255,0)}.header-bottom {background-color: #004c22}.header-main .nav > li > a{line-height: 16px }.stuck .header-main .nav > li > a{line-height: 50px }.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 90px}#logo img{max-height: 90px}}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #ff0000;}/* Color !important */[data-text-color="primary"]{color: #ff0000!important;}/* Background Color */[data-text-bg="primary"]{background-color: #ff0000;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #ff0000;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #ff0000}.nav-tabs > li.active > a{border-top-color: #ff0000}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #ff0000 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #ff0000 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #ff0000;}/* Focus */.primary:focus-visible, .submit-button:focus-visible, button[type="submit"]:focus-visible { outline-color: #ff0000!important; }/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#ffc102; }[data-text-bg="secondary"]{background-color: #ffc102;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #ffc102}/* Color !important */[data-text-color="secondary"]{color: #ffc102!important;}/* Border */.secondary.is-outline:hover{border-color:#ffc102}/* Focus */.secondary:focus-visible, .alt:focus-visible { outline-color: #ffc102!important; }.success.is-underline:hover,.success.is-outline:hover,.success{background-color: #136535}.success-color, .success.is-link, .success.is-outline{color: #136535;}.success-border{border-color: #136535!important;}/* Color !important */[data-text-color="success"]{color: #136535!important;}/* Background Color */[data-text-bg="success"]{background-color: #136535;}.alert.is-underline:hover,.alert.is-outline:hover,.alert{background-color: #ff2d55}.alert.is-link, .alert.is-outline, .color-alert{color: #ff2d55;}/* Color !important */[data-text-color="alert"]{color: #ff2d55!important;}/* Background Color */[data-text-bg="alert"]{background-color: #ff2d55;}body{color: #e8e8e8}h1,h2,h3,h4,h5,h6,.heading-font{color: #136535;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family: Prompt, sans-serif;}body {font-weight: 300;font-style: normal;}.nav > li > a {font-family: Prompt, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Prompt, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 500;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Prompt, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 500;font-style: normal;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.breadcrumbs{text-transform: none;}button,.button{text-transform: none;}.nav > li > a, .links > li > a{text-transform: none;}.section-title span{text-transform: none;}h3.widget-title,span.widget-title{text-transform: none;}.header:not(.transparent) .header-nav-main.nav > li > a {color: #ffffff;}.header:not(.transparent) .header-nav-main.nav > li > a:hover,.header:not(.transparent) .header-nav-main.nav > li.active > a,.header:not(.transparent) .header-nav-main.nav > li.current > a,.header:not(.transparent) .header-nav-main.nav > li > a.active,.header:not(.transparent) .header-nav-main.nav > li > a.current{color: #eecf20;}.header-nav-main.nav-line-bottom > li > a:before,.header-nav-main.nav-line-grow > li > a:before,.header-nav-main.nav-line > li > a:before,.header-nav-main.nav-box > li > a:hover,.header-nav-main.nav-box > li.active > a,.header-nav-main.nav-pills > li > a:hover,.header-nav-main.nav-pills > li.active > a{color:#FFF!important;background-color: #eecf20;}a{color: #ff0000;}a:hover{color: #23ea76;}.tagcloud a:hover{border-color: #23ea76;background-color: #23ea76;}.is-divider{background-color: #136535;}.absolute-footer, html{background-color: #136535}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}/* Custom CSS */.header-wrapper {height: 90px;background: linear-gradient(180deg,#136535,#1a743f 50%,#052713);border-bottom: 2px solid #136535;}.header-bottom {background: linear-gradient(180deg,#052713,#0e4525 50%,#052713);border-bottom: 2px solid #136535;}.sticky-mobile-menu { position: fixed; left: 0; bottom: 0; z-index: 999;}.sticky-mobile-menu .icon-box-center .icon-box-img { margin: 0 auto 4px;}@media (max-width: 549px) {#footer { margin-bottom: 90px;}}.fbgl { background-color: #E5A5AB; background-image: linear-gradient(0deg, #2F302E 20%, #201D1A 90%); border-top-left-radius: 24px;}.fbgc { background-color: #E5A5AB; background-image: linear-gradient(0deg, #2d2d2d 20%, #838383 90%); height: 85px; border-top-left-radius: 24px; border-top-right-radius: 24px}.fbgr { background-color: #E5A5AB; background-image: linear-gradient(0deg, #2F302E 20%, #2F302E 90%); border-top-right-radius: 24px;}.grad1 { background-image: linear-gradient(0deg, #191919 20%, #29231A 90%); border-radius: 16px;} .label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style></head>
+
+<body class="error404 wp-theme-flatsome full-width header-shadow lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="masthead" class="header-main nav-dark">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="https://pakyok77.link/" title="พักยก77" rel="home">
+		<img width="200" height="130" src="https://pakyok77.link/wp-content/uploads/2023/10/โลโก้-พักยก77.png" class="header_logo header-logo" alt="พักยก77"/><img  width="200" height="130" src="https://pakyok77.link/wp-content/uploads/2023/10/โลโก้-พักยก77.png" class="header-logo-dark" alt="พักยก77"/></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+                          </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-divided nav-size-xlarge nav-spacing-xlarge nav-uppercase" >
+              <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-391 menu-item-design-default"><a href="https://pakyok77.link/" class="nav-top-link">หน้าแรก</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83 menu-item-design-default"><a href="https://pakyok77.link/article/" class="nav-top-link">บทความ</a></li>
+<li id="menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887 menu-item-design-default"><a href="https://pakyok77.link/privacypolicy/" class="nav-top-link">นโยบายความเป็นส่วนตัว</a></li>
+<li id="menu-item-886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886 menu-item-design-default"><a href="https://pakyok77.link/contact/" class="nav-top-link">ติดต่อเรา</a></li>
+<li id="menu-item-888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-888 menu-item-design-default"><a href="/sitemap_index.xml" class="nav-top-link">SITEMAP</a></li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-divided nav-size-xlarge nav-spacing-xlarge nav-uppercase">
+              <li class="html header-button-1">
+	<div class="header-button">
+	<a rel="noopener noreferrer nofollow" href="/login/" target="_blank" class="button success is-underline is-medium"  style="border-radius:100px;">
+    <span>เข้าสู่ระบบ</span>
+  </a>
+	</div>
+</li>
+
+
+<li class="html header-button-2">
+	<div class="header-button">
+	<a rel="noopener noreferrer nofollow" href="/register/" target="_blank" class="button plain is-shade is-medium"  style="border-radius:100px;">
+    <span>สมัครสมาชิก</span>
+  </a>
+	</div>
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="center" data-bg="main-menu-overlay" data-color="dark" class="is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+
+		  <i class="icon-menu" ></i>
+		  		</a>
+	</li>
+            </ul>
+          </div>
+
+      </div>
+
+            <div class="container"><div class="top-divider full-width"></div></div>
+      </div>
+<div id="wide-nav" class="header-bottom wide-nav nav-dark show-for-medium">
+    <div class="flex-row container">
+
+            
+            
+            
+                          <div class="flex-col show-for-medium flex-grow">
+                  <ul class="nav header-bottom-nav nav-center mobile-nav  nav-uppercase">
+                      <li class="html header-button-1">
+	<div class="header-button">
+	<a rel="noopener noreferrer nofollow" href="/login/" target="_blank" class="button success is-underline is-medium"  style="border-radius:100px;">
+    <span>เข้าสู่ระบบ</span>
+  </a>
+	</div>
+</li>
+
+
+<li class="html header-button-2">
+	<div class="header-button">
+	<a rel="noopener noreferrer nofollow" href="/register/" target="_blank" class="button plain is-shade is-medium"  style="border-radius:100px;">
+    <span>สมัครสมาชิก</span>
+  </a>
+	</div>
+</li>
+                  </ul>
+              </div>
+            
+    </div>
+</div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main container pt" role="main">
+			<section class="error-404 not-found mt mb">
+				<div class="row">
+					<div class="col medium-3"><span class="header-font" style="font-size: 6em; font-weight: bold; opacity: .3">404</span></div>
+					<div class="col medium-9">
+						<header class="page-title">
+							<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+						</header>
+						<div class="page-content">
+							<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+							<form method="get" class="searchform" action="https://pakyok77.link/" role="search">
+		<div class="flex-row relative">
+			<div class="flex-col flex-grow">
+	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search&hellip;" />
+			</div>
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+					<i class="icon-search" ></i>				</button>
+			</div>
+		</div>
+    <div class="live-search-results text-left z-top"></div>
+</form>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+	</div>
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+	<div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(19, 101, 53);"></div>
+
+	<section class="section" id="section_61426910">
+		<div class="bg section-bg fill bg-fill bg-loaded bg-loaded" >
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+	<div id="gap-178864348" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-178864348 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+
+<div class="row"  id="row-1564478341">
+
+
+	<div id="col-1513502141" class="col medium-12 small-12 large-5"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div id="text-1117212244" class="text">
+		
+
+<h4>เกี่ยวกับเรา</h4>
+		
+<style>
+#text-1117212244 {
+  color: #136535;
+}
+#text-1117212244 > * {
+  color: #136535;
+}
+</style>
+	</div>
+	
+	<div id="text-1307182816" class="text">
+		
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+		
+<style>
+#text-1307182816 {
+  color: rgb(255,255,255);
+}
+#text-1307182816 > * {
+  color: rgb(255,255,255);
+}
+</style>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1386394075" class="col hide-for-medium medium-1 small-12 large-1"  >
+				<div class="col-inner"  >
+			
+			
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-850114007" class="col medium-6 small-12 large-3"  >
+				<div class="col-inner dark"  >
+			
+			
+
+	<div id="text-720273069" class="text">
+		
+
+<h4>เมนูเว็บไซต์</h4>
+		
+<style>
+#text-720273069 {
+  color: #136535;
+}
+#text-720273069 > * {
+  color: #136535;
+}
+</style>
+	</div>
+	
+	<div class="ux-menu stack stack-col justify-start">
+		
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link/"  >
+						<span class="ux-menu-link__text">
+				หน้าแรก			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link/privacypolicy/"  >
+						<span class="ux-menu-link__text">
+				นโยบายความเป็นส่วนตัว			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link/register/"  >
+						<span class="ux-menu-link__text">
+				สมัครสมาชิก			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link/login/"  >
+						<span class="ux-menu-link__text">
+				เข้าสู่ระบบ			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-832091439" class="col medium-6 small-12 large-3"  >
+				<div class="col-inner dark"  >
+			
+			
+
+	<div id="text-857930457" class="text">
+		
+
+<h4>เดิมพันครบวงจร</h4>
+		
+<style>
+#text-857930457 {
+  color: #136535;
+}
+#text-857930457 > * {
+  color: #136535;
+}
+</style>
+	</div>
+	
+	<div class="ux-menu stack stack-col justify-start">
+		
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link"  >
+						<span class="ux-menu-link__text">
+				Menu link 1			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link"  >
+						<span class="ux-menu-link__text">
+				Menu link 2			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link"  >
+						<span class="ux-menu-link__text">
+				Menu link 3			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://pakyok77.link"  >
+						<span class="ux-menu-link__text">
+				Menu link 4			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_61426910 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+#section_61426910 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_61426910 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+<div class="absolute-footer dark medium-text-center text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+        Copyright 2025 © <a href="https://pakyok77.link/">พักยก77</a> All Right Reserved.      </div>
+          </div>
+  </div>
+</div>
+
+<a href="#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle" id="top-link" aria-label="Go to top"><i class="icon-angle-up" ></i></a>
+
+</footer>
+
+</div>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+
+	
+	<div class="sidebar-menu no-scrollbar text-center">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase nav-anim" data-tab="1">
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-391"><a href="https://pakyok77.link/">หน้าแรก</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83"><a href="https://pakyok77.link/article/">บทความ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="https://pakyok77.link/privacypolicy/">นโยบายความเป็นส่วนตัว</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886"><a href="https://pakyok77.link/contact/">ติดต่อเรา</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-888"><a href="/sitemap_index.xml">SITEMAP</a></li>
+			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/flatsome\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="row row-collapse row-full-width align-bottom sticky-mobile-menu show-for-medium"  id="row-726781529">
+
+
+	<div id="col-2134766225" class="col small-12 large-12"  >
+				<div class="col-inner text-center dark"  >
+			
+			
+
+	<div id="stack-3701703391" class="stack stack-row justify-center items-end sm:justify-center sm:items-center">
+		
+
+<div class="row row-collapse align-bottom align-center"  id="row-1620339697">
+
+
+	<div id="col-1467748675" class="col fbgl small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+
+
+	<a class="plain" href="/home/"  >	<div class="icon-box featured-box icon-box-center text-center"  >
+					<div class="icon-box-img" style="width: 38px">
+				<div class="icon">
+					<div class="icon-inner" >
+						<img width="297" height="297" src="https://pakyok77.link/wp-content/uploads/2024/10/HOME-ICO2.png" class="attachment-medium size-medium" alt="HOME-ICO2" decoding="async" loading="lazy" srcset="https://pakyok77.link/wp-content/uploads/2024/10/HOME-ICO2.png 297w, https://pakyok77.link/wp-content/uploads/2024/10/HOME-ICO2-150x150.png 150w" sizes="auto, (max-width: 297px) 100vw, 297px" />					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+			<h5 class="uppercase">หน้าหลัก</h5>						
+
+
+		</div>
+	</div>
+	</a>
+	
+
+		</div>
+				
+<style>
+#col-1467748675 > .col-inner {
+  padding: 0px 0px 8px 0px;
+  margin: -16px 0px 0px 0px;
+}
+@media (min-width:550px) {
+  #col-1467748675 > .col-inner {
+    padding: 0px 0px 16px 0px;
+    margin: -8px 0px 0px 0px;
+  }
+}
+</style>
+	</div>
+
+	
+
+</div>
+<div class="row row-collapse align-bottom"  id="row-104319295">
+
+
+	<div id="col-1750612089" class="col fbgc small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div class="box has-hover  show-for-medium hide-for-small has-hover box-text-bottom" >
+
+		<div class="box-image" style="width:42%;">
+			<a href="/register/" target="_blank" rel="nofollow noopener noreferrer" >			<div class="" >
+				<img width="297" height="297" src="https://pakyok77.link/wp-content/uploads/2024/10/REGISTER-ICO2.png" class="attachment- size-" alt="REGISTER-ICO2" decoding="async" loading="lazy" srcset="https://pakyok77.link/wp-content/uploads/2024/10/REGISTER-ICO2.png 297w, https://pakyok77.link/wp-content/uploads/2024/10/REGISTER-ICO2-150x150.png 150w" sizes="auto, (max-width: 297px) 100vw, 297px" />											</div>
+			</a>		</div>
+
+		<div class="box-text text-center" style="padding:0px 0px 15px 0px;">
+			<div class="box-text-inner">
+				
+
+<h4>สมัครสมาชิก</h4>
+
+			</div>
+		</div>
+	</div>
+	
+	<div class="box has-hover  show-for-small has-hover box-text-bottom" >
+
+		<div class="box-image" style="width:55%;">
+			<a href="/register/" target="_blank" rel="nofollow noopener noreferrer" >			<div class="" >
+				<img width="297" height="297" src="https://pakyok77.link/wp-content/uploads/2024/10/REGISTER-ICO2.png" class="attachment- size-" alt="REGISTER-ICO2" decoding="async" loading="lazy" srcset="https://pakyok77.link/wp-content/uploads/2024/10/REGISTER-ICO2.png 297w, https://pakyok77.link/wp-content/uploads/2024/10/REGISTER-ICO2-150x150.png 150w" sizes="auto, (max-width: 297px) 100vw, 297px" />											</div>
+			</a>		</div>
+
+		<div class="box-text text-center" style="padding:0px 0px 15px 0px;">
+			<div class="box-text-inner">
+				
+
+<h4>สมัครสมาชิก</h4>
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-1750612089 > .col-inner {
+  padding: 0px 0px 0px 0px;
+  margin: -24px 0px 0px 0px;
+}
+@media (min-width:550px) {
+  #col-1750612089 > .col-inner {
+    margin: -72px 0px 0px 0px;
+  }
+}
+</style>
+	</div>
+
+	
+
+</div>
+<div class="row row-collapse align-bottom"  id="row-1682066229">
+
+
+	<div id="col-887228607" class="col fbgr small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+
+
+	<a class="plain" href="/login/" target="_blank" rel="nofollow noopener noreferrer" >	<div class="icon-box featured-box icon-box-center text-center"  >
+					<div class="icon-box-img" style="width: 38px">
+				<div class="icon">
+					<div class="icon-inner" >
+						<img width="297" height="297" src="https://pakyok77.link/wp-content/uploads/2024/10/PLAY-ICO2.png" class="attachment-medium size-medium" alt="PLAY-ICO2" decoding="async" loading="lazy" srcset="https://pakyok77.link/wp-content/uploads/2024/10/PLAY-ICO2.png 297w, https://pakyok77.link/wp-content/uploads/2024/10/PLAY-ICO2-150x150.png 150w" sizes="auto, (max-width: 297px) 100vw, 297px" />					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+			<h5 class="uppercase">เข้าสู่ระบบ</h5>						
+
+
+		</div>
+	</div>
+	</a>
+	
+
+		</div>
+				
+<style>
+#col-887228607 > .col-inner {
+  padding: 0px 0px 8px 0px;
+  margin: -16px 0px 0px 0px;
+}
+@media (min-width:550px) {
+  #col-887228607 > .col-inner {
+    padding: 0px 0px 16px 0px;
+    margin: -8px 0px 0px 0px;
+  }
+}
+</style>
+	</div>
+
+	
+
+</div>
+
+		
+<style>
+#stack-3701703391 > * {
+  --stack-gap: 0rem;
+}
+</style>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-2134766225 > .col-inner {
+  padding: 0px 0px 0px 0px;
+  border-radius: 8px;
+}
+</style>
+	</div>
+
+	
+
+</div><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="text/javascript" src="https://pakyok77.link/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1" id="flatsome-instant-page-js"></script>
+<script type="text/javascript" src="https://pakyok77.link/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.16.5" id="flatsome-live-search-js"></script>
+<script type="text/javascript" src="https://pakyok77.link/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://pakyok77.link/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.16.5"},"ajaxurl":"https:\/\/pakyok77.link\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","assets_url":"https:\/\/pakyok77.link\/wp-content\/themes\/flatsome\/assets\/js\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://pakyok77.link/wp-content/themes/flatsome/assets/js/flatsome.js?ver=cd604ff6aadd9abf847964cef8d66fea" id="flatsome-js-js"></script>
+<!--[if IE]>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/intersection-observer-polyfill@0.1.0/dist/IntersectionObserver.js?ver=0.1.0" id="intersection-observer-polyfill-js"></script>
+<![endif]-->
+<!--[if IE]>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/nuxodin/ie11CustomProperties@4.0.1/ie11CustomProperties.min.js?ver=4.0.1" id="css-vars-polyfill-js"></script>
+<![endif]-->
+
+</body>
+</html>

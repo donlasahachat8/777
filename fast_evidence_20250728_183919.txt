@@ -1,0 +1,60 @@
+FAST PAYLOAD TESTING EVIDENCE
+==================================================
+Target: https://pakyok77.link
+Total Tests: 5000
+Successful: 0
+Blocked: 4841
+Errors: 0
+
+SAMPLE TEST LOG (Last 50):
+------------------------------
+Test #4951: [LFI] Status: 403, Success: False
+Test #4952: [LFI] Status: 403, Success: False
+Test #4953: [LFI] Status: 403, Success: False
+Test #4954: [LFI] Status: 403, Success: False
+Test #4955: [LFI] Status: 403, Success: False
+Test #4956: [LFI] Status: 403, Success: False
+Test #4957: [SQLi] Status: 403, Success: False
+Test #4958: [LFI] Status: 403, Success: False
+Test #4959: [LFI] Status: 403, Success: False
+Test #4960: [LFI] Status: 403, Success: False
+Test #4961: [LFI] Status: 403, Success: False
+Test #4962: [LFI] Status: 403, Success: False
+Test #4963: [LFI] Status: 403, Success: False
+Test #4964: [LFI] Status: 403, Success: False
+Test #4965: [LFI] Status: 403, Success: False
+Test #4966: [LFI] Status: 403, Success: False
+Test #4967: [LFI] Status: 403, Success: False
+Test #4968: [LFI] Status: 403, Success: False
+Test #4969: [LFI] Status: 403, Success: False
+Test #4970: [LFI] Status: 403, Success: False
+Test #4971: [LFI] Status: 403, Success: False
+Test #4972: [LFI] Status: 403, Success: False
+Test #4973: [LFI] Status: 403, Success: False
+Test #4974: [LFI] Status: 403, Success: False
+Test #4975: [LFI] Status: 403, Success: False
+Test #4976: [LFI] Status: 403, Success: False
+Test #4977: [LFI] Status: 403, Success: False
+Test #4978: [LFI] Status: 403, Success: False
+Test #4979: [LFI] Status: 403, Success: False
+Test #4980: [LFI] Status: 403, Success: False
+Test #4981: [LFI] Status: 403, Success: False
+Test #4982: [LFI] Status: 403, Success: False
+Test #4983: [LFI] Status: 403, Success: False
+Test #4984: [LFI] Status: 403, Success: False
+Test #4985: [LFI] Status: 403, Success: False
+Test #4986: [LFI] Status: 403, Success: False
+Test #4987: [LFI] Status: 403, Success: False
+Test #4988: [LFI] Status: 403, Success: False
+Test #4989: [CMDi] Status: 403, Success: False
+Test #4990: [LFI] Status: 403, Success: False
+Test #4991: [LFI] Status: 403, Success: False
+Test #4992: [SQLi] Status: 403, Success: False
+Test #4993: [LFI] Status: 403, Success: False
+Test #4994: [SQLi] Status: 403, Success: False
+Test #4995: [XSS] Status: 403, Success: False
+Test #4996: [LFI] Status: 403, Success: False
+Test #4997: [LFI] Status: 403, Success: False
+Test #4998: [LFI] Status: 403, Success: False
+Test #4999: [LFI] Status: 403, Success: False
+Test #5000: [LFI] Status: 403, Success: False

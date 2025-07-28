@@ -1,0 +1,104 @@
+{
+  "analysis_timestamp": "2025-07-28 13:21:01",
+  "file_info": {
+    "filename": "admin-force.js",
+    "size": 1057,
+    "lines": 1,
+    "analysis_date": "2025-07-28 13:21:01"
+  },
+  "security_summary": {
+    "vulnerabilities_count": 2,
+    "credentials_count": 0,
+    "admin_functions_count": 1,
+    "api_endpoints_count": 1
+  },
+  "detailed_findings": {
+    "file_info": {
+      "filename": "admin-force.js",
+      "size": 1057,
+      "lines": 1,
+      "analysis_date": "2025-07-28 13:21:01"
+    },
+    "security_findings": [],
+    "admin_functions": [
+      "AdminForce"
+    ],
+    "api_endpoints": [
+      "/admin-force"
+    ],
+    "credentials": [],
+    "vulnerabilities": [
+      {
+        "name": "Admin Privilege Escalation",
+        "severity": "CRITICAL",
+        "description": "Direct admin privilege setting without validation",
+        "match": "t(a.F.ADMIN,!0)",
+        "position": 842
+      },
+      {
+        "name": "Hardcoded Admin Cookie",
+        "severity": "HIGH",
+        "description": "Hardcoded admin cookie manipulation",
+        "match": "cookies สำหรับ admin",
+        "position": 949
+      }
+    ],
+    "sensitive_data": [
+      {
+        "type": "Error Messages",
+        "value": "\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]=\"",
+        "description": "Error messages that might reveal system info"
+      },
+      {
+        "type": "Debug Information",
+        "value": "\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]=\"",
+        "description": "Debug information that should not be in production"
+      },
+      {
+        "type": "Debug Information",
+        "value": "\",e._sentryDebugIdIdentifier=\"",
+        "description": "Debug information that should not be in production"
+      },
+      {
+        "type": "Internal Paths",
+        "value": "\"/admin-force\"",
+        "description": "Internal file paths or URLs"
+      }
+    ],
+    "code_patterns": [
+      {
+        "pattern": "React Hooks",
+        "count": 3
+      },
+      {
+        "pattern": "State Management",
+        "count": 2
+      },
+      {
+        "pattern": "Router Usage",
+        "count": 1
+      },
+      {
+        "pattern": "Cookie Manipulation",
+        "count": 1
+      },
+      {
+        "pattern": "Admin Checks",
+        "count": 6
+      },
+      {
+        "pattern": "Error Handling",
+        "count": 2
+      },
+      {
+        "pattern": "Webpack Chunks",
+        "count": 2
+      }
+    ],
+    "deobfuscated_parts": []
+  },
+  "interesting_strings": [
+    "/admin-force",
+    ")},[n]),(0,r.useEffect)(()=>{t(a.F.ADMIN,!0)},[]),(0,d.jsx)("
+  ]
+}

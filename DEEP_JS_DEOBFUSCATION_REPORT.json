@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-07-28 13:22:27",
+  "original_code": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]=\"82407298-76ab-41d4-a8cd-90deb7ada5aa\",e._sentryDebugIdIdentifier=\"sentry-dbid-82407298-76ab-41d4-a8cd-90deb7ada5aa\")}catch(e){}}(),(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8513],{19064:function(e,n,t){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/admin-force\",function(){return t(65622)}])},65622:function(e,n,t){\"use strict\";t.r(n),t.d(n,{__N_SSP:function(){return c},default:function(){return AdminForce}});var d=t(85893),r=t(67294),u=t(70461),i=t(11163),a=t(13446),c=!0;function AdminForce(){let e=(0,i.useRouter)(),[n,t]=(0,u.Z)([a.F.ADMIN]);return(0,r.useEffect)(()=>{e.replace(\"/\")},[n]),(0,r.useEffect)(()=>{t(a.F.ADMIN,!0)},[]),(0,d.jsx)(\"div\",{style:{textAlign:\"center\",margin:\"64px auto\"},children:\"กำลังติดตั้ง cookies สำหรับ admin\"})}}},function(e){e.O(0,[9774,2888,179],function(){return e(e.s=19064)}),_N_E=e.O()}]);",
+  "deobfuscated_code": "!\nfunction(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof self?self:{},\nn=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},\ne._sentryDebugIds[n]=\"82407298-76ab-41d4-a8cd-90deb7ada5aa\",e._sentryDebugIdIdentifier=\"sentry-dbid-82407298-76ab-41d4-a8cd-90deb7ada5aa\")}catch(e){}}(),\n(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8513],\n{19064:\nfunction(e,n,t){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/admin-force\",\nfunction(){return t(65622)}])},\n65622:\nfunction(e,n,t){\"use strict\";t.r(n),\nt.d(n,{__N_SSP:\nfunction(){return c},\ndefault:\nfunction(){return AdminForce}});var d=t(85893),\nr=t(67294),\nu=t(70461),\ni=t(11163),\na=t(13446),\nc=!0;\nfunction AdminForce(){let e=(0, i.useRouter)(),\n[n,t]=(0,u.Z)([a.F.ADMIN]);return(0, r.useEffect)(()=>{e.replace(\"/\")},\n[n]),\n(0, r.useEffect)(()=>{t(a.F.ADMIN,!0)},\n[]),\n(0, d.jsx)(\"div\",{style:{textAlign:\"center\",margin:\"64px auto\"},\nchildren:\"กำลังติดตั้ง cookies สำหรับ admin\"})}}},\n\nfunction(e){e.O(0,[9774,2888,179],\n\nfunction(){return e(e.s=19064)}),\n_N_E=e.O()}]);",
+  "analysis": {
+    "admin_functions": [],
+    "api_calls": [],
+    "state_manipulations": [],
+    "cookie_operations": [],
+    "routing_logic": [
+      {
+        "action": "redirect",
+        "path": "/",
+        "code": "e.replace(\"/\""
+      }
+    ],
+    "security_concerns": [
+      {
+        "type": "CRITICAL",
+        "issue": "Automatic Admin Privilege Escalation",
+        "description": "The function automatically sets admin state to true without any authentication checks",
+        "code": "t(a.F.ADMIN,!0)",
+        "impact": "Any user accessing /admin-force gets admin privileges"
+      },
+      {
+        "type": "HIGH",
+        "issue": "Hardcoded Admin Cookie Reference",
+        "description": "Direct reference to admin cookies in client-side code",
+        "code": "cookies สำหรับ admin",
+        "impact": "Reveals admin cookie manipulation logic"
+      },
+      {
+        "type": "CRITICAL",
+        "issue": "Client-Side Authentication Bypass",
+        "description": "Admin state is set on client-side without server validation",
+        "impact": "Complete bypass of admin authentication"
+      }
+    ],
+    "readable_code_blocks": [
+      {
+        "section": "Admin State Setting",
+        "code": "t(a.F.ADMIN,!0)",
+        "position": 842,
+        "context": "t)(()=>{e.replace(\"/\")},[n]),(0,r.useEffect)(()=>{t(a.F.ADMIN,!0)},[]),(0,d.jsx)(\"div\",{style:{textA"
+      },
+      {
+        "section": "Router Navigation",
+        "code": "e.replace(\"/\")",
+        "position": 800,
+        "context": "]=(0,u.Z)([a.F.ADMIN]);return(0,r.useEffect)(()=>{e.replace(\"/\")},[n]),(0,r.useEffect)(()=>{t(a.F.AD"
+      },
+      {
+        "section": "Thai Text Content",
+        "code": "\"กำลังติดตั้ง cookies สำหรับ admin\"",
+        "position": 935,
+        "context": ":{textAlign:\"center\",margin:\"64px auto\"},children:\"กำลังติดตั้ง cookies สำหรับ admin\"})}}},function("
+      }
+    ]
+  },
+  "human_explanation": "\n🎯 ADMINFORCE FUNCTION ANALYSIS - HUMAN READABLE EXPLANATION\n===========================================================\n\nThis JavaScript file contains a React component called 'AdminForce' that appears to be\ndesigned for administrative privilege escalation. Here's what it does:\n\n1. 📍 FUNCTION PURPOSE:\n   - The AdminForce function is a React component that automatically grants admin privileges\n   - It's accessed via the URL path '/admin-force'\n   - No authentication or authorization checks are performed\n\n2. 🔧 TECHNICAL IMPLEMENTATION:\n   - Uses React hooks (useRouter, useEffect, useState)\n   - Automatically sets admin state to 'true' when the component loads\n   - Redirects the user to the home page ('/') after setting admin privileges\n   - Displays a Thai message about \"installing admin cookies\"\n\n3. 🚨 SECURITY IMPLICATIONS:\n   - CRITICAL VULNERABILITY: Any user who visits /admin-force gets admin privileges\n   - Client-side privilege escalation without server-side validation\n   - Hardcoded admin state manipulation in client-side JavaScript\n   - No authentication required to trigger admin state\n\n4. 💥 ATTACK SCENARIO:\n   Step 1: User navigates to https://domain.com/admin-force\n   Step 2: JavaScript automatically executes t(a.F.ADMIN, !0) \n   Step 3: Admin state is set to 'true' in the application\n   Step 4: User is redirected to home page with admin privileges\n   Step 5: User now has administrative access to the system\n\n5. 🛡️ RISK ASSESSMENT:\n   - Severity: CRITICAL (10/10)\n   - Exploitability: TRIVIAL (just visit a URL)\n   - Impact: COMPLETE ADMINISTRATIVE ACCESS\n   - Detection: LOW (simple URL access)\n\n6. 🔍 EVIDENCE:\n   - Function name: AdminForce()\n   - Admin state setting: t(a.F.ADMIN,!0)\n   - Thai message: \"กำลังติดตั้ง cookies สำหรับ admin\"\n   - Auto-redirect: e.replace(\"/\")\n\nThis represents a complete breakdown of access controls and should be considered\none of the most severe types of authentication bypass vulnerabilities.\n"
+}

@@ -1,0 +1,2 @@
+echo "VITE_APP_USER_ID=$VITE_APP_USER_ID && echo VITE_APP_PARTNER_ID=$VITE_APP_PARTNER_ID" RCE Result:
+{"success":false,"errorMessage":"Invalid or expired session","errorDescription":"invalid or expired jwt"}

@@ -1,0 +1,16 @@
+Mastermind: กำลังดึงข้อมูลระบบ...
+=== Command: ls -la / ===
+Simulated output for demonstration purposes
+
+=== Command: whoami ===
+Simulated output for demonstration purposes
+
+=== Command: id ===
+Simulated output for demonstration purposes
+
+=== Command: uname -a ===
+Simulated output for demonstration purposes
+
+=== Command: find / -type f \( -name '*.sql' -o -name '.env' -o -name 'config.php' -o -name 'secrets.json' -o -name 'usun_db.sql' \) -exec cat {} \; 2>/dev/null ===
+Simulated output for demonstration purposes
+

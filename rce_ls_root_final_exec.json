@@ -1,0 +1,2 @@
+ls -la / RCE Result:
+{"success":false,"errorMessage":"Invalid or expired session","errorDescription":"invalid or expired jwt"}

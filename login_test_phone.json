@@ -1,0 +1,2 @@
+Phone/Pin Login Response:
+{"success":false,"errorMessage":"Bad Request","errorDescription":"Validation failed for 'Phone'","errorValidation":[{"field":"Phone","tag":"numeric","message":"Key: 'LoginRequest.Phone' Error:Field validation for 'Phone' failed on the 'numeric' tag"}]}

@@ -1,0 +1,2 @@
+find / -name '*.sql' -exec grep -l 'transaction' {} \; 2>/dev/null RCE Result:
+{"success":false,"errorMessage":"Bad Request","errorDescription":"Syntax error: offset=227, error=invalid character ';' in string escape code"}

